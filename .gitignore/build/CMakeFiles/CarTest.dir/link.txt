@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/CarTest.dir/Car.cpp.o CMakeFiles/CarTest.dir/CarTest.cpp.o -o CarTest  -lpthread /usr/local/lib/libgtest_main.a /usr/local/lib/libgtest.a 
