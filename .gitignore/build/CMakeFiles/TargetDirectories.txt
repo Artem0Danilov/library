@@ -1,0 +1,4 @@
+/home/lavanda/Desktop/library/build/CMakeFiles/CarTest.dir
+/home/lavanda/Desktop/library/build/CMakeFiles/test.dir
+/home/lavanda/Desktop/library/build/CMakeFiles/edit_cache.dir
+/home/lavanda/Desktop/library/build/CMakeFiles/rebuild_cache.dir
